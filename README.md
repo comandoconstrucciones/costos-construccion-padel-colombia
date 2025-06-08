@@ -49,5 +49,5 @@ Puedes compartir, adaptar y utilizar libremente la información, **siempre que c
   title = {Costos de Construcción de Canchas de Pádel en Colombia (2025)},
   author = {Comando Construcciones SAS},
   year = {2025},
-  url = {https://github.com/tunombre/costos-construccion-padel-colombia-2025}
+  url = {https://github.com/comandoconstrucciones/costos-construccion-padel-colombia/}
 }
