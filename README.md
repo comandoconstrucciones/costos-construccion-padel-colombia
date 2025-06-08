@@ -8,7 +8,7 @@ Desarrollado y compartido por **Comando Construcciones**, empresa especializada 
 
 ## 📁 Archivos disponibles
 
-- `data/costos_padel_colombia_2025.xlsx`  
+- `data/costos_padel_colombia_2025.csv`  
 - `data/diccionario_variables.md`
 
 ## 🧱 Detalles del dataset
