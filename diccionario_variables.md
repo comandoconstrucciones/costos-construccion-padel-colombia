@@ -1,7 +1,7 @@
 
-# Diccionario de Variables: Costos de Construcción de Canchas de Pádel en Colombia (2025)
+# Diccionario de Variables: Costos de Construcción de Canchas de Pádel en Colombia (2026)
 
-Este archivo describe cada una de las columnas incluidas en el archivo `costos_padel_colombia_2025.xlsx`.
+Este archivo describe cada una de las columnas incluidas en el archivo `costos_padel_colombia_2026.xlsx`.
 
 ## Columnas
 
@@ -18,7 +18,7 @@ Este archivo describe cada una de las columnas incluidas en el archivo `costos_p
   Valor estimado de fabricación e instalación de una cubierta metálica con lona o panel termoacústico para protección climática.
 
 - **Año**  
-  Año en que se estiman los costos (2025). Todos los valores están ajustados a precios proyectados para este año.
+  Año en que se estiman los costos (2026). Todos los valores están ajustados a precios proyectados para este año.
 
 ---
 

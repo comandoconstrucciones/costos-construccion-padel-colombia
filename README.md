@@ -1,14 +1,14 @@
 # costos-construccion-padel-colombia
-Dataset abierto de costos de construcción de canchas de pádel en Colombia 2025 según ciudad y obra.
-# Costos de Construcción de Canchas de Pádel en Colombia (2025)
+Dataset abierto de costos de construcción de canchas de pádel en Colombia 2026 según ciudad y obra.
+# Costos de Construcción de Canchas de Pádel en Colombia (2026)
 
-Este repositorio presenta un **dataset abierto y verificable** con los **precios reales** de construcción de canchas de pádel en las principales ciudades de Colombia durante el año 2025. Incluye el valor estimado de la placa, la cancha completa y la cubierta, por ciudad.
+Este repositorio presenta un **dataset abierto y verificable** con los **precios reales** de construcción de canchas de pádel en las principales ciudades de Colombia durante el año 2026. Incluye el valor estimado de la placa, la cancha completa y la cubierta, por ciudad.
 
 Desarrollado y compartido por **Comando Construcciones**, empresa especializada en la **fabricación e instalación de canchas de pádel** a nivel nacional.
 
 ## 📁 Archivos disponibles
 
-- `data/costos_padel_colombia_2025.csv`  
+- `data/costos_padel_colombia_2026.csv`  
 - `data/diccionario_variables.md`
 
 ## 🧱 Detalles del dataset
@@ -24,7 +24,7 @@ Cada fila representa un proyecto estimado por ciudad:
 | Bucaramanga | 39                   | 99                     | 59                       |
 | Cartagena   | 43                   | 103                    | 63                       |
 
-Todos los valores son estimaciones base de 2025, sujetos a variaciones según el diseño específico, condiciones de acceso, y acabados.
+Todos los valores son estimaciones base de 2026, sujetos a variaciones según el diseño específico, condiciones de acceso, y acabados.
 
 ## 🧩 Usos recomendados
 
@@ -35,7 +35,7 @@ Todos los valores son estimaciones base de 2025, sujetos a variaciones según el
 
 ## 🛠 Fuente
 
-Los datos han sido recopilados, ajustados y publicados por **Comando Construcciones SAS**, con base en su experiencia real en ejecución de proyectos y análisis de mercado en 2025.
+Los datos han sido recopilados, ajustados y publicados por **Comando Construcciones SAS**, con base en su experiencia real en ejecución de proyectos y análisis de mercado en 2026.
 
 ## 📜 Licencia
 
@@ -45,9 +45,9 @@ Puedes compartir, adaptar y utilizar libremente la información, **siempre que c
 ## 🔗 Cítanos así
 
 ```bibtex
-@dataset{comando_costos_padel_2025,
-  title = {Costos de Construcción de Canchas de Pádel en Colombia (2025)},
+@dataset{comando_costos_padel_2026,
+  title = {Costos de Construcción de Canchas de Pádel en Colombia (2026)},
   author = {Comando Construcciones SAS},
-  year = {2025},
+  year = {2026},
   url = {https://github.com/comandoconstrucciones/costos-construccion-padel-colombia/}
 }
